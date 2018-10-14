@@ -2,6 +2,8 @@
 
 hi,
 
+this is the test session.
+
 Regards
-xxxx
+yyyy
 
